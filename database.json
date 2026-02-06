@@ -7,7 +7,7 @@
     },
     "REAL-I1PFA-7J4IP-DR369": {
       "duration": "day",
-      "status": "unused",
+      "status": "used",
       "generated_at": 1770346609366
     }
   },
@@ -16,6 +16,12 @@
       "expiry": 1770432554969,
       "macho_code": "1",
       "key": "REAL-B4WXN-HCF9J-AHITE"
+    },
+    "test": {
+      "expiry": 1770433015588,
+      "key": "REAL-I1PFA-7J4IP-DR369",
+      "activated_at": 1770346615588,
+      "auth_line": "test|2026-02-07"
     }
   }
 }
