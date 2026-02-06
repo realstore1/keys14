@@ -1,32 +1,37 @@
 {
-  "keys": {
-    "REAL-B4WXN-HCF9J-AHITE": {
-      "duration": "day",
-      "status": "used",
-      "generated_at": 1770346148508
+    "keys": {
+        "REAL-B4WXN-HCF9J-AHITE": {
+            "duration": "day",
+            "status": "used",
+            "generated_at": 1770346148508
+        },
+        "REAL-I1PFA-7J4IP-DR369": {
+            "duration": "day",
+            "status": "used",
+            "generated_at": 1770346609366
+        },
+        "REAL-VHYH5-A8BUL-XLL8L": {
+            "duration": "day",
+            "status": "used",
+            "generated_at": 1770347103928
+        }
     },
-    "REAL-I1PFA-7J4IP-DR369": {
-      "duration": "day",
-      "status": "used",
-      "generated_at": 1770346609366
-    },
-    "REAL-VHYH5-A8BUL-XLL8L": {
-      "duration": "day",
-      "status": "unused",
-      "generated_at": 1770347103928
+    "activations": {
+        "1": {
+            "expiry": 1770432554969,
+            "macho_code": "1",
+            "key": "REAL-B4WXN-HCF9J-AHITE"
+        },
+        "test": {
+            "expiry": 1770433015588,
+            "key": "REAL-I1PFA-7J4IP-DR369",
+            "activated_at": 1770346615588,
+            "auth_line": "test|2026-02-07"
+        },
+        "REAL-VHYH5-A8BUL-XLL8L": {
+            "expiry": 1770433509,
+            "key": "REAL-VHYH5-A8BUL-XLL8L",
+            "auth_line": "REAL-VHYH5-A8BUL-XLL8L|2026-02-07"
+        }
     }
-  },
-  "activations": {
-    "1": {
-      "expiry": 1770432554969,
-      "macho_code": "1",
-      "key": "REAL-B4WXN-HCF9J-AHITE"
-    },
-    "test": {
-      "expiry": 1770433015588,
-      "key": "REAL-I1PFA-7J4IP-DR369",
-      "activated_at": 1770346615588,
-      "auth_line": "test|2026-02-07"
-    }
-  }
 }
