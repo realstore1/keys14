@@ -2,9 +2,15 @@
   "keys": {
     "REAL-B4WXN-HCF9J-AHITE": {
       "duration": "day",
-      "status": "unused",
+      "status": "used",
       "generated_at": 1770346148508
     }
   },
-  "activations": {}
+  "activations": {
+    "1": {
+      "expiry": 1770432554969,
+      "macho_code": "1",
+      "key": "REAL-B4WXN-HCF9J-AHITE"
+    }
+  }
 }
